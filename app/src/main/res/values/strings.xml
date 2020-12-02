@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Play store Layout</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
